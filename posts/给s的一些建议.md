@@ -13,7 +13,7 @@ author_email:
 createdAt: 2026-07-21T01:30:10.232Z
 ---
 
-```json
+```json foxsir-post
 {
  "type": "note",
  "meta": {
