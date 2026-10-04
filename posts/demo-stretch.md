@@ -10,7 +10,7 @@ is_public: true
 tags: ["示例","伸展"]
 author_nickname: Foxsir
 author_email: 
-created_at: 2026-10-04T16:42:05.763Z
+created_at: 2026-10-04T17:03:28.961Z
 ---
 
 ```json foxsir-post
@@ -31,7 +31,7 @@ created_at: 2026-10-04T16:42:05.763Z
   ],
   "author_nickname": "Foxsir",
   "author_email": "",
-  "createdAt": "2026-10-04T16:42:05.763Z"
+  "createdAt": "2026-10-04T17:03:28.961Z"
  },
  "data": {
   "intro": "把三个可以随时插入日常的伸展动作整理在一起，每个都只需几分钟，不需要器械。",
