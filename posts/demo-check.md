@@ -10,7 +10,7 @@ is_public: true
 tags: ["示例","沟通"]
 author_nickname: Foxsir
 author_email: 
-created_at: 2026-10-04T16:42:06.740Z
+created_at: 2026-10-04T17:03:30.235Z
 ---
 
 ```json foxsir-post
@@ -31,7 +31,7 @@ created_at: 2026-10-04T16:42:06.740Z
   ],
   "author_nickname": "Foxsir",
   "author_email": "",
-  "createdAt": "2026-10-04T16:42:06.740Z"
+  "createdAt": "2026-10-04T17:03:30.235Z"
  },
  "data": {
   "mode": "scale",
